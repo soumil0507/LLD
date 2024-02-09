@@ -1,0 +1,5 @@
+1. Problem Statement - If we have a class with 100's of fields and only 2 or 3 are mandatory
+and we might also want to add optional fields. 
+
+2. Now if I want to create an object of the class with a combination of mandatory and 
+optional arguments we then have to create different constructors for different combination.
